@@ -13,7 +13,7 @@ By leveraging historical weather patterns, we aim to:
 
 ## Data Overview
 
-Our analysis uses a subset of the European Climate Assessment and Dataset containing:
+This analysis uses a subset of the European Climate Assessment and Dataset containing:
 
 - 22,950 daily observations across 15 Western European locations
 - 62+ years of historical data (January 1960 to October 2022)
