@@ -26,4 +26,4 @@ This project employs multiple supervised machine learning algorithms to tackle t
 
 - k-Nearest Neighbors (k-NN): Baseline proximity-based classification
 - Decision Trees: Interpretable rule-based weather pattern identification
-- Multi-Layer Perceptrons (MLPs): Neural network that employs deep learning for complex pattern recognition
+- Multi-Layer Perceptrons (MLPs): Artificial neural network that employs deep learning for complex pattern recognition
