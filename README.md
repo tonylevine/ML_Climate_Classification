@@ -15,7 +15,7 @@ By leveraging historical weather patterns, we aim to:
 
 This analysis uses a subset of the European Climate Assessment and Dataset containing:
 
-- 22,950 daily observations across 15 Western European locations
+- 344,250 daily observations across 15 Western European locations
 - 62+ years of historical data (January 1960 to October 2022)
 - 9 meteorological variables including temperature, humidity, precipitation, wind speed, and hours of sunshine
 - Binary classification targets indicating pleasant vs. unpleasant weather conditions for each date and location
