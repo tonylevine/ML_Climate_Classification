@@ -2,12 +2,12 @@
 
 ## Project Overview
 
-This project serves the mission of ClimateWins, a fictional climate advocacy nonprofit dedicated to understanding and communicating climate change impacts across Europe through data-driven analysis and accessible machine learning applications. My focus is on developing robust machine learning models to classify weather conditions as "pleasant" or "unpleasant" across 15 locations throughout Europe, spanning over six decades of meteorological data (1960-2022).
+This project serves the mission of ClimateWins, a fictional climate advocacy nonprofit dedicated to understanding and communicating climate change impacts across Europe through data-driven analysis and accessible machine learning applications. The focus is on developing robust machine learning models to classify weather conditions as "pleasant" or "unpleasant" from 15 locations throughout Europe, spanning over six decades of meteorological data (1960-2022).
 
 By leveraging historical weather patterns, I aim to:
 
-- Quantify climate comfort trends across different European regions over time
-- Identify regional variations in weather pleasantness and their evolution
+- Quantify climate trends across different European regions over time
+- Identify regional variations in weather and their evolution
 - Provide evidence-based insights for climate advocacy and policy discussions
 - Demonstrate accessible AI applications for environmental research and public education
 
