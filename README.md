@@ -22,8 +22,9 @@ This analysis uses a subset of the European Climate Assessment and Dataset conta
 
 ## Methodology
 
-This project employs multiple supervised machine learning algorithms to tackle the weather classification challenge:
+This project employs multiple supervised and unsupervised machine learning algorithms to tackle the weather classification challenge:
 
 - k-Nearest Neighbors (k-NN): Baseline proximity-based classification
 - Decision Trees: Interpretable rule-based weather pattern identification
-- Multi-Layer Perceptrons (MLPs): Artificial neural network that employs deep learning for complex pattern recognition
+- Neural Networks: Dense, Convolutional, and Recurrent neural networks that employ deep learning for complex pattern recognition
+- Random Forests: Aggregate of multiple decision trees to uncover nonlinear relationships and rank feature importance
